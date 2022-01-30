@@ -20,11 +20,15 @@
   --keyword: rgb(197, 134, 192);
   --function-declaration: rgb(220, 220, 170);
   --variable: rgb(156, 220, 254);
-  --comment: rgb(115, 115, 105);
+  --comment: rgb(110, 110, 105);
 
   /* markdown */
   --heading: var(--language-constant);
   --inline-code: var(--string);
+}
+
+.ace_keyword.ace_operator {
+  color: #8ABEB7
 }
 
 .ace_gutter {
