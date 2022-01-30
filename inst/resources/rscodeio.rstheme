@@ -18,7 +18,7 @@
   --string: rgb(110, 165, 95);
   --regex: rgb(209, 105, 105);
   --keyword: rgb(197, 134, 192);
-  --function-declaration: #F0DCB4;
+  --function-declaration: #DCDC95;
   --variable: rgb(156, 220, 254);
   --comment: rgb(110, 110, 105);
 
