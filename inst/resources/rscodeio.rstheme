@@ -28,7 +28,7 @@
 }
 
 .ace_keyword.ace_operator {
-  color: #8ABEB7
+  color: #2CF3CB
 }
 
 .ace_gutter {
