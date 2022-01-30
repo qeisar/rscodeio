@@ -15,7 +15,7 @@
   --type-declaration: rgb(78, 201, 176);
   --language-constant: rgb(86, 156, 214);
   --numeric-constant: rgb(181, 206, 168);
-  --string: rgb(155, 160, 100);
+  --string: rgb(125, 160, 100);
   --regex: rgb(209, 105, 105);
   --keyword: rgb(197, 134, 192);
   --function-declaration: rgb(220, 220, 170);
