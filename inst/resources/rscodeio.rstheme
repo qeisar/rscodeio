@@ -46,7 +46,7 @@
 .rstudio-themes-flat .ace_editor_theme {
   background-color: var(--editor-background);
   color: var(--editor-foreground);
-  line-height: 1.5 !important;
+  line-height: 1.45 !important;
 }
 
 .ace_cursor {
