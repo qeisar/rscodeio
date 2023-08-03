@@ -2,7 +2,7 @@
 /* rs-theme-is-dark: TRUE */
 :root {
   /* editor */
-  --editor-background-color: 30, 30, 30;
+  --editor-background-color: 20, 30, 40;
   --editor-background: rgb(var(--editor-background-color));
   --editor-foreground: rgb(204, 204, 204);
 
